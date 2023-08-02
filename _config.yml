@@ -8,8 +8,8 @@ permalink:        pretty
 
 # Setup
 title:            Pan
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content.'
+tagline:          'Yet another blog'
+description:      ''
 url:              https://revlis7.github.io
 baseurl:          https://revlis7.github.io/
 

@@ -1,6 +1,9 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
 
 # Permalinks
 permalink:        pretty
@@ -11,7 +14,7 @@ title:            Pan
 tagline:          'Yet another blog'
 description:      ''
 url:              https://revlis7.github.io
-baseurl:          https://revlis7.github.io/
+baseurl:          /
 
 author:
   name:           'Kevin Pan'

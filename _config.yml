@@ -14,7 +14,7 @@ title:            Pan
 tagline:          'Yet another blog'
 description:      ''
 url:              https://revlis7.github.io
-baseurl:          ''
+baseurl:          /
 
 author:
   name:           'Kevin Pan'

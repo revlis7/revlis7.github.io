@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在 Linux 下使用 L2TP VPN
-tags: Linux L2TP VPN
+tags: Linux Fedora L2TP VPN
 ---
 
 如果你在 Linux 下使用 L2TP VPN 时遇到无法连接的问题，提示：
@@ -38,4 +38,4 @@ sudo sed -e '/blacklist l2tp_ppp/s/^b/#b/g' -i /etc/modprobe.d/l2tp_ppp-blacklis
 sudo /usr/libexec/nm-l2tp-service --debug
 ```
 
-如果你在 VPN 配置中使用了不支持的加密算法，就可以在这里看到对应的报错信息。
+根据错误提示来修改对应的配置，比如你在 VPN 配置中使用了不支持的加密算法时，就可以在这里看到，只要将对应的算法从列表中删除即可。

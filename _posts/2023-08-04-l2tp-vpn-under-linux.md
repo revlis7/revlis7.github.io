@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在 Linux 下使用 L2TP VPN
+title: 排查在 Linux 下使用 L2TP VPN 无法连接的问题
 tags: Linux Fedora L2TP VPN
 ---
 

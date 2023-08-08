@@ -4,6 +4,8 @@ title: 燃风 REALFORCE R3 / R2 静电容键盘上手体验
 tags: REALFORCE 燃风 R3 R2 静电容 键盘
 ---
 
+![REALFORCE R2 TKL for Mac](/public/images/realforce_r2_for_mac.png "REALFORCE R2 TKL for Mac")
+
 ## REALFORCE R3 for Mac (R3HH11)
 
 燃风 REALFORCE R3，作为笔者第一把静电容键盘，在最初上手的时候，确实感受到了那种传统机械键盘无可比拟的手感。这让我回想起了第一次用上 Cherry 青轴的感觉，那种独特的段落与新鲜感让人欲罢不能。但是当这种新鲜感慢慢退去时，再来仔细端详眼前这把键盘，你会发现它或许并不是那么完美。

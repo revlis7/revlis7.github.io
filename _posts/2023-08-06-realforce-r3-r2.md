@@ -4,9 +4,9 @@ title: 燃风 REALFORCE R3 / R2 静电容键盘上手体验
 tags: REALFORCE 燃风 R3 R2 静电容 键盘
 ---
 
-![REALFORCE R2 TKL for Mac](/public/images/realforce_r2_for_mac.png "REALFORCE R2 TKL for Mac")
-
 ## REALFORCE R3 for Mac (R3HH11)
+
+![REALFORCE R3 for Mac](/public/images/realforce_r3_for_mac.png "REALFORCE R3 for Mac")
 
 燃风 REALFORCE R3，作为笔者第一把静电容键盘，在最初上手的时候，确实感受到了那种传统机械键盘无可比拟的手感。这让我回想起了第一次用上 Cherry 青轴的感觉，那种独特的段落与新鲜感让人欲罢不能。但是当这种新鲜感慢慢退去时，再来仔细端详眼前这把键盘，你会发现它或许并不是那么完美。
 
@@ -52,17 +52,29 @@ R3 一改 R2 的设计，给键盘留了一个巨大无比的额头，可能是�
 
 ## REALFORCE R2 TKL for Mac (R2TLSA-US4M-BK)
 
+![REALFORCE R2 TKL for Mac](/public/images/realforce_r2_for_mac.png "REALFORCE R2 TKL for Mac")
+
 ### 优点
 
-* **静电容独特的输入手感与听感**
-* **类肤质涂层键帽**
-* **PBT 激光蚀刻键帽**
-* **Mac 配列与 Apple 键盘设计风格一致**
+#### 类肤质涂层键帽
+
+这是我最喜欢 R2 的地方，虽然激光蚀刻键帽会有磨损的问题，但是从外观上来讲，无可挑剔。
+
+#### 与 Apple 键盘风格一致的 Mac 配列
+
+尤其值得一提的是，Mac 版本的 R2 的 X 键与左 command 键是对齐的，这点和苹果键盘是一样的，这是市面上绝大多数的 Mac 配列键盘都没有的，包括 R3 也没有做到。
 
 ### 缺点
 
-* **类肤质涂层键帽**
-* **PBT 激光蚀刻键帽**
-* **长时间输入手感偏硬**
-* **尴尬的 APC 模式** - 与 R3 相同
+#### 类肤质涂层键帽
+
+虽然外观无可挑剔，可惜影响了键入手感，并且有磨损的可能。
+
+#### 长时间输入手感偏硬
+
+虽然有着静电容既有的独特手感，但正如前面提到的，R2 的手感在长时间使用后似乎不如 R3 流畅，显得干涩乏味，甚至会让人忘记自己用的是静电容键盘的感觉。
+
+#### 尴尬的 APC 模式
+
+与 R3 相同
 

@@ -4,9 +4,7 @@ title: 解决 Surge tvOS 在网关模式下无法联网的问题
 tags: Surge tvOS Apple TV 网关
 ---
 
-![Apple TV 4K](/public/images/apple_tv_4k.png "Apple TV 4K")
-
-## 解决 Surge tvOS 在网关模式下无法联网的问题
+![Apple TV 4K](/public/images/apple_tv_4k.png)
 
 Apple TV 最近终于迎来了一次重要的更新：tvOS 17！可以通过安装 Surge、Quantumult X 等软件将 Apple TV 变身为一台旁路由。
 
